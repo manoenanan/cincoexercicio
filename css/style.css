@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #E9ECF9;
+}
+
+figure{
+    width: 553px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    text-align: center;
+}
+
+article{
+    width: fit-content;
+    text-align: left;
+    border-radius: 4px;
+    background-color: #fff;     
+    width: fit-content;
+    padding: 24px;
+    box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.1);
+    position: ;
+}
+
+h3{
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    line-height: 22px;
+    color: #02233CFA;
+    margin-bottom: 8px;
+    font-weight: 700;
+}
+
+p{
+    font-family: 'Nunito Sans', sans-serif;
+    color: #555555;
+    font-size: 12px;
+    line-height: 18px;
+    width: 173px;
+    font-weight: 400;
+}
+
+.cima-esquerda{
+    position: absolute;
+    top: 38px;
+    left: 0;
+    border-left: 2px solid; 
+}
+
+.direta-baixo{
+    position: absolute;
+    bottom: 38px;
+    right: 0;
+    border-right: 2px solid; 
+}
+
+.pipoca{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.camera{
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+    
